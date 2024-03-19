@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="./offiaccount.png" alt="微信公众号：机器感知" width="300" />
+</div>
+
+-----
+
 <table align="center">
     <thead>
         <tr>
