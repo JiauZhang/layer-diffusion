@@ -1,7 +1,7 @@
 from glob import glob
 import cv2
 
-images = glob('image/*.png')
+images = glob('images/*.png')
 for image in images:
     data = cv2.imread(image)
     h, w = data.shape[:2]
