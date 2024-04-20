@@ -20,6 +20,13 @@
             <td><img src="./images/2024-04-11.png" width="512" alt="image" /></td>
         </tr>
         <tr>
+            <td rowspan="2">2024-04-04</td>
+            <td><a href="https://arxiv.org/abs/2404.02790">MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image  Generation</a></td>
+        </tr>
+        <tr>
+            <td><img src="./images/2024-04-04.png" width="512" alt="image" /></td>
+        </tr>
+        <tr>
             <td rowspan="2">2024-03-19</td>
             <td><a href="https://arxiv.org/abs/2403.11929">LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model</a></td>
         </tr>

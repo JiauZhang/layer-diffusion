@@ -1,8 +1,9 @@
 from glob import glob
+from tqdm import tqdm
 import cv2
 
 images = glob('images/*.png')
-for image in images:
+for image in tqdm(images):
     data = cv2.imread(image)
     h, w = data.shape[:2]
     if w > 512:
