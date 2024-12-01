@@ -7,6 +7,20 @@
     </thead>
     <tbody align="center" valign="center">
         <tr>
+            <td rowspan="2">2024-11-28</td>
+            <td><a href="https://arxiv.org/abs/2411.17864">Generative Image Layer Decomposition with Visual Effects</a></td>
+        </tr>
+        <tr>
+            <td><img src="./images/2024-11-28.png" width="512" alt="image" /></td>
+        </tr>
+        <tr>
+            <td rowspan="2">2024-11-19</td>
+            <td><a href="https://arxiv.org/abs/2411.10913">Generating Compositional Scenes via Text-to-image RGBA Instance Generation</a></td>
+        </tr>
+        <tr>
+            <td><img src="./images/2024-11-19.png" width="512" alt="image" /></td>
+        </tr>
+        <tr>
             <td rowspan="2">2024-08-27</td>
             <td><a href="https://arxiv.org/abs/2408.14826">Alfie: Democratising RGBA Image Generation With No $$$</a></td>
         </tr>
